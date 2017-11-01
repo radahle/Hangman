@@ -1,0 +1,15 @@
+<resources>
+    <string name="lost_title">Ikke bra nok!!</string>
+    <string name="win_title">Hurra!</string>
+    <string name="lost_message">Du tapte! Riktig ord var: </string>
+    <string name="win_message">Du vant</string>
+    <string name="new_game">Nytt spill</string>
+    <string name="to_start">Startmeny</string>
+    <string name="error_title">ERROR!</string>
+    <string name="error_message">Tomt for ord. Avslutt spillet for å kunne spille mer</string>
+    <string name="rules1">For å redde HangMan fra å bli hengt så må du gjette det hemmelige ordet!</string>
+    <string name="rules2">For å finne det hemmelige ordet må du gjette én bokstav om gangen.</string>
+    <string name="rules3">Gjetter du riktig så vil alle forekomster av denne bokstaven vises i det hemmelige ordet.</string>
+    <string name="rules4">Klarer du å gjette alle bokstavene vinner du spillet, og HangMan er trygg.</string>
+    <string name="rules5">Men, gjetter du feil bokstav seks ganger vil HangMan dø, og du taper spillet.</string>
+</resources>

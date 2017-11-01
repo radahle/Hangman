@@ -1,0 +1,15 @@
+<resources>
+    <string name="lost_title">Not good enough!</string>
+    <string name="win_title">Woohoo!</string>
+    <string name="lost_message">You lost! The correct word was: </string>
+    <string name="win_message">You won</string>
+    <string name="new_game">New game</string>
+    <string name="to_start">Start menu</string>
+    <string name="error_title">ERROR!</string>
+    <string name="error_message">No more words to choose from. Restart the game.</string>
+    <string name="rules1">To save HangMan from being hanged, you need to guess the secret word!</string>
+    <string name="rules2">To figure out the secret word, you need to guess one letter at the time.</string>
+    <string name="rules3">If you guess correctly, all the occurrences of this letter will be revealed in the secret word.</string>
+    <string name="rules4">If you can guess all the letters of the secret word, you win the game and HangMan is safe.</string>
+    <string name="rules5">However, if you guess wrong six times HangMan will die, and you lose the game.</string>
+</resources>
